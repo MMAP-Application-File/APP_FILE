@@ -1,2 +1,3 @@
 # APP_FILE
-Download the xcode file.
+~~~ INSTALLING ~~~
+1. Click on MMAP.xcodeproj.zip
